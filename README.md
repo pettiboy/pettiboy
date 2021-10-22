@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hussain Pettiwala</h1>
 
-<h2 align="center">
+<h2 align="left">
 🚀 Insights
 </h2>
 
