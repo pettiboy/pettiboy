@@ -4,9 +4,9 @@
 🚀 Insights
 </h2>
 
-- 🌱 I’m currently learning **NodeJS frameworks, New DB technologies**
+- 🌱 I’m currently learning **NodeJS frameworks, New DB technologies, front-end typescript frameworks**
 
-- 🤝 I’m looking for help with [React Native UI Buttons](https://github.com/pettiboy/react-native-ui-buttons)
+- 🤝 I’m looking for help with [React UI ScrollSpy](https://github.com/pettiboy/react-ui-scrollspy)
 
 - 💬 Ask me about **React, TypeScript, Django, React Native**
 
