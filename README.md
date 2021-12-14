@@ -25,14 +25,14 @@
 
 <br>
 <h2 align="left" >📊 My Stats</h2>
-<div align="center">
+<div>
 
 <a href="https://github.com/pettiboy">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=pettiboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hussain's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pettiboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hussain's Stats" />
 </a>
 
 <a href="https://github.com/pettiboy">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettiboy&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hussain's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettiboy&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Hussain's Top Languages" />
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pettiboy&" alt="pettiboy" /></p> -->
 </div>
