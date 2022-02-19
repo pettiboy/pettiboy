@@ -4,7 +4,7 @@
 🚀 Insights
 </h2>
 
-- 🌱 I’m currently learning **NodeJS frameworks, New DB technologies, front-end typescript frameworks**
+- 🌱 I’m currently learning **Web3 technologies**
 
 - 🤝 I’m looking for help with [React UI ScrollSpy](https://github.com/pettiboy/react-ui-scrollspy)
 
